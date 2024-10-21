@@ -1,0 +1,3 @@
+Backend Technology =  Java Spring Boot (Java 17) IDE- STS4
+DataBase = MySQL 
+Front Technology= React.js IDE- Visual Studio Code

@@ -1,0 +1,11 @@
+.nav_bar {
+    border-radius: 10px;
+    box-shadow: 0 0 20px 5px white, 10px 10px 20px gray;
+    background-color: #faefd9;
+    margin-left: auto;
+  }
+
+  .bttn {
+    margin-left: 50px;
+    padding: 0;
+  }
